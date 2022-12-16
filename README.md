@@ -16,7 +16,7 @@ Constitution de voyages à partir d’un catalogue de trajets
 Pour exécuter l'application en mode debug, modifier le Makefile et modifier la variable DEBUG = yes.
 ## Auteurs
 
-- Laziza BELLAHBIB
+- Aziza BELLAHBIB
     aziza.bellahbib@insa-lyon.fr
 
 - Martin NIZON-DELADOEUILLE
